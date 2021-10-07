@@ -1,0 +1,3 @@
+﻿sc.exe create ".NetCore DataLoaderService2" binpath=D:\GIT_ITECO\GetFromPHD2\DataLoader.Service\bin\Release\netcoreapp3.1\publish\DataLoader.Service.exe
+sc.exe start ".NetCore DataLoaderService2"
+sc.exe delete ".NetCore DataLoaderService2"

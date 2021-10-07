@@ -1,0 +1,13 @@
+D:\GIT_ITECO\GetFromPHD2\DataLoader.PHDWin\bin\Debug\LIB\phdapinet.dll
+D:\GIT_ITECO\GetFromPHD2\DataLoader.PHDWin\bin\Debug\DataLoader.PHDWin.dll
+D:\GIT_ITECO\GetFromPHD2\DataLoader.PHDWin\bin\Debug\DataLoader.PHDWin.pdb
+D:\GIT_ITECO\GetFromPHD2\DataLoader.PHDWin\bin\Debug\phdapinet.dll
+D:\GIT_ITECO\GetFromPHD2\DataLoader.PHDWin\obj\Debug\DataLoader.PHDWin.csproj.AssemblyReference.cache
+D:\GIT_ITECO\GetFromPHD2\DataLoader.PHDWin\obj\Debug\DataLoader.PHDWin.csproj.CoreCompileInputs.cache
+D:\GIT_ITECO\GetFromPHD2\DataLoader.PHDWin\obj\Debug\DataLoader.PHDWin.csproj.CopyComplete
+D:\GIT_ITECO\GetFromPHD2\DataLoader.PHDWin\obj\Debug\DataLoader.PHDWin.dll
+D:\GIT_ITECO\GetFromPHD2\DataLoader.PHDWin\obj\Debug\DataLoader.PHDWin.pdb
+D:\GIT_ITECO\GetFromPHD2\DataLoader.PHDWin\bin\Debug\LIB\opchda.dll
+D:\GIT_ITECO\GetFromPHD2\DataLoader.PHDWin\bin\Debug\LIB\OpcNetApi.Com.dll
+D:\GIT_ITECO\GetFromPHD2\DataLoader.PHDWin\bin\Debug\LIB\OpcNetApi.dll
+D:\GIT_ITECO\GetFromPHD2\DataLoader.PHDWin\bin\Debug\LIB\phdapi.dll

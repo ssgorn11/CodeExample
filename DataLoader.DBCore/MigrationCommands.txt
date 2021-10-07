@@ -1,0 +1,5 @@
+﻿dotnet ef migrations add InitialCreate --project DataLoader.DBCore
+dotnet ef database update --project DataLoader.DBCore
+
+dotnet ef database update 0
+dotnet ef migrations remove

@@ -1,0 +1,16 @@
+D:\GIT_ITECO\GetFromPHD2\DataLoader.DBCore\bin\Release\netcoreapp3.1\DataLoader.DBCore.deps.json
+D:\GIT_ITECO\GetFromPHD2\DataLoader.DBCore\bin\Release\netcoreapp3.1\DataLoader.DBCore.runtimeconfig.json
+D:\GIT_ITECO\GetFromPHD2\DataLoader.DBCore\bin\Release\netcoreapp3.1\DataLoader.DBCore.runtimeconfig.dev.json
+D:\GIT_ITECO\GetFromPHD2\DataLoader.DBCore\bin\Release\netcoreapp3.1\DataLoader.DBCore.dll
+D:\GIT_ITECO\GetFromPHD2\DataLoader.DBCore\bin\Release\netcoreapp3.1\DataLoader.DBCore.pdb
+D:\GIT_ITECO\GetFromPHD2\DataLoader.DBCore\bin\Release\netcoreapp3.1\DataLoader.Service.Contract.dll
+D:\GIT_ITECO\GetFromPHD2\DataLoader.DBCore\bin\Release\netcoreapp3.1\DataLoader.Service.Contract.pdb
+D:\GIT_ITECO\GetFromPHD2\DataLoader.DBCore\obj\Release\netcoreapp3.1\DataLoader.DBCore.csproj.AssemblyReference.cache
+D:\GIT_ITECO\GetFromPHD2\DataLoader.DBCore\obj\Release\netcoreapp3.1\DataLoader.DBCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT_ITECO\GetFromPHD2\DataLoader.DBCore\obj\Release\netcoreapp3.1\DataLoader.DBCore.AssemblyInfoInputs.cache
+D:\GIT_ITECO\GetFromPHD2\DataLoader.DBCore\obj\Release\netcoreapp3.1\DataLoader.DBCore.AssemblyInfo.cs
+D:\GIT_ITECO\GetFromPHD2\DataLoader.DBCore\obj\Release\netcoreapp3.1\DataLoader.DBCore.csproj.CoreCompileInputs.cache
+D:\GIT_ITECO\GetFromPHD2\DataLoader.DBCore\obj\Release\netcoreapp3.1\DataLoader.DBCore.csproj.CopyComplete
+D:\GIT_ITECO\GetFromPHD2\DataLoader.DBCore\obj\Release\netcoreapp3.1\DataLoader.DBCore.dll
+D:\GIT_ITECO\GetFromPHD2\DataLoader.DBCore\obj\Release\netcoreapp3.1\DataLoader.DBCore.pdb
+D:\GIT_ITECO\GetFromPHD2\DataLoader.DBCore\obj\Release\netcoreapp3.1\DataLoader.DBCore.genruntimeconfig.cache

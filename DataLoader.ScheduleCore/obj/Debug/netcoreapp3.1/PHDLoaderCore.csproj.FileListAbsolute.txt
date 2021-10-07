@@ -1,0 +1,17 @@
+D:\GIT_ITECO\GetFromPHD2\PHDLoaderCore\obj\Debug\netcoreapp3.1\PHDLoaderCore.csproj.AssemblyReference.cache
+D:\GIT_ITECO\GetFromPHD2\PHDLoaderCore\obj\Debug\netcoreapp3.1\PHDLoaderCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT_ITECO\GetFromPHD2\PHDLoaderCore\obj\Debug\netcoreapp3.1\PHDLoaderCore.AssemblyInfoInputs.cache
+D:\GIT_ITECO\GetFromPHD2\PHDLoaderCore\obj\Debug\netcoreapp3.1\PHDLoaderCore.AssemblyInfo.cs
+D:\GIT_ITECO\GetFromPHD2\PHDLoaderCore\obj\Debug\netcoreapp3.1\PHDLoaderCore.csproj.CoreCompileInputs.cache
+D:\GIT_ITECO\GetFromPHD2\PHDLoaderCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\GIT_ITECO\GetFromPHD2\PHDLoaderCore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\GIT_ITECO\GetFromPHD2\PHDLoaderCore\bin\Debug\netcoreapp3.1\PHDLoaderCore.deps.json
+D:\GIT_ITECO\GetFromPHD2\PHDLoaderCore\bin\Debug\netcoreapp3.1\PHDLoaderCore.dll
+D:\GIT_ITECO\GetFromPHD2\PHDLoaderCore\bin\Debug\netcoreapp3.1\PHDLoaderCore.pdb
+D:\GIT_ITECO\GetFromPHD2\PHDLoaderCore\bin\Debug\netcoreapp3.1\PHDLoaderDBCore.dll
+D:\GIT_ITECO\GetFromPHD2\PHDLoaderCore\bin\Debug\netcoreapp3.1\PHDLoaderDBCore.pdb
+D:\GIT_ITECO\GetFromPHD2\PHDLoaderCore\obj\Debug\netcoreapp3.1\PHDLoaderCore.csproj.CopyComplete
+D:\GIT_ITECO\GetFromPHD2\PHDLoaderCore\obj\Debug\netcoreapp3.1\PHDLoaderCore.dll
+D:\GIT_ITECO\GetFromPHD2\PHDLoaderCore\obj\Debug\netcoreapp3.1\PHDLoaderCore.pdb
+D:\GIT_ITECO\GetFromPHD2\PHDLoaderCore\bin\Debug\netcoreapp3.1\PHDReder.dll
+D:\GIT_ITECO\GetFromPHD2\PHDLoaderCore\bin\Debug\netcoreapp3.1\PHDReder.pdb

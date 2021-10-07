@@ -1,0 +1,16 @@
+D:\GIT_ITECO\GetFromPHD2\DataLoaderAdmin.HTTP\obj\Debug\DataLoaderAdmin.HTTP.csproj.AssemblyReference.cache
+D:\GIT_ITECO\GetFromPHD2\DataLoaderAdmin.HTTP\obj\Debug\DataLoaderAdmin.HTTP.csproj.CoreCompileInputs.cache
+D:\GIT_ITECO\GetFromPHD2\DataLoaderAdmin.HTTP\bin\Debug\DataLoaderAdmin.HTTP.dll
+D:\GIT_ITECO\GetFromPHD2\DataLoaderAdmin.HTTP\bin\Debug\DataLoaderAdmin.HTTP.pdb
+D:\GIT_ITECO\GetFromPHD2\DataLoaderAdmin.HTTP\bin\Debug\DataLoaderService.Contract.dll
+D:\GIT_ITECO\GetFromPHD2\DataLoaderAdmin.HTTP\bin\Debug\Flurl.dll
+D:\GIT_ITECO\GetFromPHD2\DataLoaderAdmin.HTTP\bin\Debug\Flurl.Http.dll
+D:\GIT_ITECO\GetFromPHD2\DataLoaderAdmin.HTTP\bin\Debug\Newtonsoft.Json.dll
+D:\GIT_ITECO\GetFromPHD2\DataLoaderAdmin.HTTP\bin\Debug\DataLoaderService.Contract.pdb
+D:\GIT_ITECO\GetFromPHD2\DataLoaderAdmin.HTTP\bin\Debug\Flurl.pdb
+D:\GIT_ITECO\GetFromPHD2\DataLoaderAdmin.HTTP\bin\Debug\Flurl.xml
+D:\GIT_ITECO\GetFromPHD2\DataLoaderAdmin.HTTP\bin\Debug\Flurl.Http.pdb
+D:\GIT_ITECO\GetFromPHD2\DataLoaderAdmin.HTTP\bin\Debug\Newtonsoft.Json.xml
+D:\GIT_ITECO\GetFromPHD2\DataLoaderAdmin.HTTP\obj\Debug\DataLoaderAdmin.HTTP.csproj.CopyComplete
+D:\GIT_ITECO\GetFromPHD2\DataLoaderAdmin.HTTP\obj\Debug\DataLoaderAdmin.HTTP.dll
+D:\GIT_ITECO\GetFromPHD2\DataLoaderAdmin.HTTP\obj\Debug\DataLoaderAdmin.HTTP.pdb

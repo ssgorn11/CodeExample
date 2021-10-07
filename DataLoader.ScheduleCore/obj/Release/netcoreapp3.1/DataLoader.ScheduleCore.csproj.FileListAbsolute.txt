@@ -1,0 +1,17 @@
+D:\GIT_ITECO\GetFromPHD2\DataLoader.ScheduleCore\bin\Release\netcoreapp3.1\DataLoader.ScheduleCore.deps.json
+D:\GIT_ITECO\GetFromPHD2\DataLoader.ScheduleCore\bin\Release\netcoreapp3.1\DataLoader.ScheduleCore.dll
+D:\GIT_ITECO\GetFromPHD2\DataLoader.ScheduleCore\bin\Release\netcoreapp3.1\DataLoader.ScheduleCore.pdb
+D:\GIT_ITECO\GetFromPHD2\DataLoader.ScheduleCore\bin\Release\netcoreapp3.1\DataLoader.DBCore.dll
+D:\GIT_ITECO\GetFromPHD2\DataLoader.ScheduleCore\bin\Release\netcoreapp3.1\DataLoader.PHDReder.dll
+D:\GIT_ITECO\GetFromPHD2\DataLoader.ScheduleCore\bin\Release\netcoreapp3.1\DataLoader.Service.Contract.dll
+D:\GIT_ITECO\GetFromPHD2\DataLoader.ScheduleCore\bin\Release\netcoreapp3.1\DataLoader.DBCore.pdb
+D:\GIT_ITECO\GetFromPHD2\DataLoader.ScheduleCore\bin\Release\netcoreapp3.1\DataLoader.PHDReder.pdb
+D:\GIT_ITECO\GetFromPHD2\DataLoader.ScheduleCore\bin\Release\netcoreapp3.1\DataLoader.Service.Contract.pdb
+D:\GIT_ITECO\GetFromPHD2\DataLoader.ScheduleCore\obj\Release\netcoreapp3.1\DataLoader.ScheduleCore.csproj.AssemblyReference.cache
+D:\GIT_ITECO\GetFromPHD2\DataLoader.ScheduleCore\obj\Release\netcoreapp3.1\DataLoader.ScheduleCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT_ITECO\GetFromPHD2\DataLoader.ScheduleCore\obj\Release\netcoreapp3.1\DataLoader.ScheduleCore.AssemblyInfoInputs.cache
+D:\GIT_ITECO\GetFromPHD2\DataLoader.ScheduleCore\obj\Release\netcoreapp3.1\DataLoader.ScheduleCore.AssemblyInfo.cs
+D:\GIT_ITECO\GetFromPHD2\DataLoader.ScheduleCore\obj\Release\netcoreapp3.1\DataLoader.ScheduleCore.csproj.CoreCompileInputs.cache
+D:\GIT_ITECO\GetFromPHD2\DataLoader.ScheduleCore\obj\Release\netcoreapp3.1\DataLoader.ScheduleCore.csproj.CopyComplete
+D:\GIT_ITECO\GetFromPHD2\DataLoader.ScheduleCore\obj\Release\netcoreapp3.1\DataLoader.ScheduleCore.dll
+D:\GIT_ITECO\GetFromPHD2\DataLoader.ScheduleCore\obj\Release\netcoreapp3.1\DataLoader.ScheduleCore.pdb

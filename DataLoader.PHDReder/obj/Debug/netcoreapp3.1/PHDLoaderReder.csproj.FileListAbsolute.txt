@@ -1,0 +1,10 @@
+D:\GIT_ITECO\GetFromPHD2\PHDReder\bin\Debug\netcoreapp3.1\PHDLoaderReder.deps.json
+D:\GIT_ITECO\GetFromPHD2\PHDReder\bin\Debug\netcoreapp3.1\PHDLoaderReder.dll
+D:\GIT_ITECO\GetFromPHD2\PHDReder\bin\Debug\netcoreapp3.1\PHDLoaderReder.pdb
+D:\GIT_ITECO\GetFromPHD2\PHDReder\obj\Debug\netcoreapp3.1\PHDLoaderReder.csproj.AssemblyReference.cache
+D:\GIT_ITECO\GetFromPHD2\PHDReder\obj\Debug\netcoreapp3.1\PHDLoaderReder.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT_ITECO\GetFromPHD2\PHDReder\obj\Debug\netcoreapp3.1\PHDLoaderReder.AssemblyInfoInputs.cache
+D:\GIT_ITECO\GetFromPHD2\PHDReder\obj\Debug\netcoreapp3.1\PHDLoaderReder.AssemblyInfo.cs
+D:\GIT_ITECO\GetFromPHD2\PHDReder\obj\Debug\netcoreapp3.1\PHDLoaderReder.csproj.CoreCompileInputs.cache
+D:\GIT_ITECO\GetFromPHD2\PHDReder\obj\Debug\netcoreapp3.1\PHDLoaderReder.dll
+D:\GIT_ITECO\GetFromPHD2\PHDReder\obj\Debug\netcoreapp3.1\PHDLoaderReder.pdb

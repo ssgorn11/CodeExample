@@ -1,0 +1,6 @@
+D:\GIT_ITECO\GetFromPHD2\DataLoader.Service.Contract\bin\Release\DataLoader.Service.Contract.dll
+D:\GIT_ITECO\GetFromPHD2\DataLoader.Service.Contract\bin\Release\DataLoader.Service.Contract.pdb
+D:\GIT_ITECO\GetFromPHD2\DataLoader.Service.Contract\obj\Release\DataLoader.Service.Contract.csproj.AssemblyReference.cache
+D:\GIT_ITECO\GetFromPHD2\DataLoader.Service.Contract\obj\Release\DataLoader.Service.Contract.csproj.CoreCompileInputs.cache
+D:\GIT_ITECO\GetFromPHD2\DataLoader.Service.Contract\obj\Release\DataLoader.Service.Contract.dll
+D:\GIT_ITECO\GetFromPHD2\DataLoader.Service.Contract\obj\Release\DataLoader.Service.Contract.pdb
