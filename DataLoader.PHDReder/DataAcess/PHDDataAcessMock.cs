@@ -22,7 +22,7 @@ namespace DataLoader.PHDReder
             else
             {
                 res.Add(new PHDDataDto() { IdTag = tag.Item1, Tag = tag.Item2, Confidence = 100, DatePHD = DateTime.Now, ReadTime = DateTime.Now, Value = rnRes });
-                Task.Delay(rnRes * 2);
+                Task.Delay(rnRes * 2).GetAwaiter().GetResult();
             }
 
             return res;
